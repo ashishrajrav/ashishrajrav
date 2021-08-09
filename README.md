@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android, Java, Python, SQL, CSS, React, NodeJS, DBMS, DataStructure;
 - 🌱 I’m currently learning every new and wide technologies;
 - 💞️ I’m looking to collaborate on Instagram;
-- 📫 How to reach: <a herf="instagram.com/ashish_rajrav/">Ashish Rajrav</a>
+- 📫 How to reach me instagram.com/ashish_rajrav/
 
 <!---
 ashishrajrav/ashishrajrav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
